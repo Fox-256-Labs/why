@@ -1,0 +1,59 @@
+---
+title: "The Breadcrumbs Strategy"
+subtitle: "By Future Me, For Future Me"
+
+author: 
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 11/22/2024
+
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: true
+code-summary: "Code"
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+# The reflection
+
+In the quiet moments after a night of good sleep, I had a realization about my dataviz journey. It was one of those clear-headed epiphanies where the fog of ambition lifts, leaving behind something simpler, yet more profound: I need a new strategy. One rooted in realism and sustainability.
+
+For years, I admired the online dataviz greats—Nadieh Bremer, Tanya Shapiro, Georgios Karamanis—individuals whose work radiates creativity and mastery. I dreamed of walking in their footsteps. But reading Daniel Kahneman’s *Thinking, Fast and Slow* recently gave me pause. It reminded me of survivorship bias—the stories we idolize while ignoring the quieter majority who started with the same dreams but eventually faded into anonymity. Life happens, after all. Kids, jobs, promotions, responsibilities—they can push hobbies and aspirations to the periphery.
+
+So, I’ve decided to let go of that grand ambition. Not with bitterness, but with clarity. Most of us don’t become legends in our chosen fields. That’s okay. The bigger tragedy, I think, is in setting ourselves up for failure by chasing an unsustainable path. Instead, I want to chart a course that respects both my passion and the reality of life’s interruptions.
+
+This is where the Breadcrumbs Strategy comes in.\
+
+## What are breadcrumbs?
+
+Breadcrumbs are my way of leaving signposts for myself in the future—a trail of knowledge that I can return to even if life pulls me away from dataviz for months, years, or longer. They’re not grand projects or complex endeavors. They’re simple, digestible tutorials that I’ll publish on my GitHub. Each one will re-engineer a dataviz I admire, breaking it down so that I can reconstruct it later with ease.
+
+The idea isn’t just to create something beautiful or shareable today. It’s to build a practical archive for future me—a repository of skills and insights I might forget as life gets busy. The Breadcrumbs Strategy is my insurance policy against the gaps that time creates. 
+
+## Why breadcrumbs, and Why now?? 
+
+My love for data visualization isn’t new. It began in graduate school in 2014, a time when I marveled at how numbers could be transformed into stories. By 2015, I was enthusiastic enough to build a website—<https://mattykuch.github.io>—to showcase my work. I felt like I was on my way.
+
+Then, life took over. In 2017, I was promoted to management. Responsibilities piled up. Creativity took a back seat. For seven years, I didn’t touch creative dataviz. Now, in late 2024, I find myself rekindling that old passion. But as I sit down to work, I realize something unsettling: I can’t remember how I built many of the visualizations I once proudly shared. The tools, the techniques, the nuances—they’ve faded. And that’s a loss I don’t want to experience again.
+
+The Breadcrumbs Strategy is my way of ensuring that future me doesn’t face the same frustration. Whether it’s one year, five years, or a decade from now, I want to be able to pick up right where I left off.\
+
+## Why R?
+
+For this approach to work, I need the right tools. R, with its emphasis on reproducibility and repeatability, feels like the perfect choice. It’s a language built for scientists, where the focus is not just on creating something once but on ensuring it can be recreated consistently.
+
+With R, I can script my breadcrumbs into tutorials that are clear, concise, and reusable. It’s not just about coding; it’s about creating a workflow that mirrors the scientific method—documented, precise, and ready to be picked up at any point in the future.
+
+# A sustainable path forward
+
+The Breadcrumbs Strategy isn’t about chasing fame or recognition. It’s not about becoming one of the dataviz greats I admire. It’s about leaving a legacy for myself—a way to stay connected to something I love, even when life inevitably intervenes.
+
+Future me, if you’re reading this, I hope these breadcrumbs help you find your way back.
