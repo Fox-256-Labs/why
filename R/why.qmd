@@ -38,7 +38,7 @@ Breadcrumbs are my way of leaving signposts for myself in the future—a trail o
 
 The idea isn’t just to create something beautiful or shareable today. It’s to build a practical archive for future me—a repository of skills and insights I might forget as life gets busy. The Breadcrumbs Strategy is my insurance policy against the gaps that time creates. 
 
-## Why breadcrumbs, and Why now?? 
+## Why breadcrumbs, and Why now??
 
 My love for data visualization isn’t new. It began in graduate school in 2014, a time when I marveled at how numbers could be transformed into stories. By 2015, I was enthusiastic enough to build a website—<https://mattykuch.github.io>—to showcase my work. I felt like I was on my way.
 
